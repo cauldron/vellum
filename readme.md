@@ -1,4 +1,4 @@
-[Vellum logo](img/logo.png)
+![Vellum logo](https://github.com/cauldron/vellum/blob/main/img/logo.png)
 
 Vellum is [ILCD](https://eplca.jrc.ec.europa.eu/ilcd.html), but better. Every Vellum document is a valid ILCD document, but has the follow improvements over ILCD 1.1:
 
